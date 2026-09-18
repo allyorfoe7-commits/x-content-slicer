@@ -1,0 +1,4 @@
+interface:
+  display_name: "X 内容切片"
+  short_description: "抓取自己的 X 内容，生成高端卡片图片与 Live 视频"
+  default_prompt: "使用 $x-content-slicer 从我的 X 原创内容中选出可独立阅读的素材，并生成图片卡片和 Live 视频。"
